@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.Services-section-bg {
+    background-color: #52606d;
+    color: white;
+    font-family: roboto;
+}
+
+.services-section-small-heading {
+    color: #cced00;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.services-section-main-heading {
+    font-weight: bold;
+    font-size: 38px;
+}
+
+.card-image {
+    height: 50px;
+    width: 50px;
+}
+
+
+.services-section1 {
+    background-color: #323f4b;
+    border-radius: 10px;
+    /* margin: 5px; */
+}
+
+.service-heading1 {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.service-description {
+    font-size: 22px;
+    color: #9aa5b1;
+}
